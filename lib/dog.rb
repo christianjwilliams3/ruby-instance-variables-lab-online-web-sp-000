@@ -1,3 +1,3 @@
 class Dog 
   def name
-    this
+    this_dogs_name =Dog_name
